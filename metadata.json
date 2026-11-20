@@ -1,0 +1,6 @@
+{
+  "name": "Mùa Quả",
+  "description": "Cửa hàng trái cây tươi theo mùa tuyển chọn trực tiếp từ nhà vườn Việt Nam và nhập khẩu chính ngạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
